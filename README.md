@@ -220,6 +220,7 @@ Survey <- Survey %>%
 
 tabyl(rating)                    
 
+
                       
                          
                          
