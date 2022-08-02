@@ -1,18 +1,4 @@
 
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 10,884
-updated README.md file
-Inbox
-
-Mark Galassi
-Attachments
-11:39 AM (1 minute ago)
-to me
-
-Attachments area
 (DRAFT!!!!! NOT FINAL README.md)
 
 # Instructions for Lucy's Repository!
