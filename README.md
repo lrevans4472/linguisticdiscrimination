@@ -27,6 +27,7 @@ library(scales)
 library(dplyr)
 
 ---
+
 After you have downloaded the survey, and the packages make sure that in your own code you rewrite the file name to the location "your" file is at. For example my file is located at "/home/lucy/Downloads/tidy_survey.csv", but your's will probably have your name and whatever you titled the survey. 
 ---
 The code itself ("") is not finished, but that's because there is so much data to look through! A survey this thourough takes a lot of time, and I've only scratched the surface. The dream is that once the survey is cleaned up there will be bins dedicated to the way the voices in the survey were described. 
@@ -38,3 +39,4 @@ Moving on from the code there is my research paper that describes my research in
 Next, is my slide-show that I will be presenting infront of my peers and mentors. It is dedicated to both my main project and side project.
 ---
 That's all to my repository! Thanks!
+---
