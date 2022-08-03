@@ -1,5 +1,4 @@
 
-(DRAFT!!!!! NOT FINAL README.md)
 
 # Instructions for Lucy's Repository!
 
@@ -47,7 +46,7 @@ library(dplyr)
 
 ## Running the software
 
-After you have downloaded the survey, and the packages make sure that in your own code you rewrite the file name to the location "your" file is at. For example my file is located at "/home/lucy/Downloads/tidy_survey.csv", but your's will probably have your name and whatever you titled the survey. 
+After you have downloaded the survey, and the packages make sure that in your own code you rewrite the file name to the location "your" file is at. For example my file is located at '/home/lucy/Downloads/tidy_survey.csv', but your's will probably have your name and whatever you titled the survey. 
 
 Note that if you cloned with git then you should just have
 `tidy_survey.csv` in your current directory.  You can now type:
@@ -56,15 +55,17 @@ Note that if you cloned with git then you should just have
 Rscript lucyevansdatacode.R
 ``` 
 
-The code itself ("lucyevansdatacode.R") is not finished, but that's because there is so much data to look through! A survey this thourough takes a lot of time, and I've only scratched the surface. The dream is that once the survey is cleaned up there will be bins dedicated to the way the voices in the survey were described. 
+The code itself ('lucyevansdatacode.R') is not finished, but that's because there is so much data to look through! A survey this thourough takes a lot of time, and I've only scratched the surface. The dream is that once the survey is cleaned up there will be bins dedicated to the way the voices in the survey were described. 
 
-Once the code is ran, which you can find a file of the code in the repository titled: "Lucy_Evans_Linguistic_Discrimination.pdf" then you can see what I have been testing. Renaming bins into different categories and using the "tabyl" feature to showcase the bins. 
+Once the code is ran, which you can find a file of the code in the repository titled: 'lucyevansdatacode.R' then you can see what I have been testing. Renaming bins into different categories and using the "tabyl" feature to showcase the bins. 
 
-## The write-up
+## The write-up 
+
+'Lucy_Evans_Linguistic_Discrimination_Research_Paper_Final.pdf' is my research paper.
 
 Moving on from the code there is my research paper that describes my research into the Reed Linguistic Department's survey of Reedies and how they feel they are effected by linguistic discrimination.
 
-Next, is my slide-show that I will be presenting infront of my peers and mentors. It is dedicated to both my main project and side project.
+Next, is my slide-show that I will be presenting infront of my peers and mentors. It is dedicated to both my main project and side project. 'Linguistic_Discrimination_Lucy_Evans_SlideShow.odp'
 
 That's all to my repository! Thanks!
 README.md
